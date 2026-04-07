@@ -1,7 +1,7 @@
 export const content = {
   name: "Laura",
   title: "Model & Creator",
-  tagline: "You’re favorite Belgian girl 😊",
+  tagline: "Your favorite Belgian girl 😊",
   ctas: [
     { label: "F2F", href: "https://f2f.com/s/srKpPh", brand: "f2f" },
     { label: "Onlyfans", href: "https://onlyfans.com/lauraclauw/c1", brand: "onlyfans" },
